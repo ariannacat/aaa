@@ -31,7 +31,7 @@ Results suggest that raw-binned data, particularly with Drop-Seq, can provide st
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/scRNA-hypoxia-classifier.git
+git clone https://github.com/ariannacat/scRNA-hypoxia-classifier.git
 cd scRNA-hypoxia-classifier
 pip install -r requirements.txt
 
